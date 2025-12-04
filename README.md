@@ -1,9 +1,9 @@
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/88e1ac0c-5913-4b65-9cc0-55726f83b9eb" alt="Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/7db384f4-8852-4870-bedd-bcd9946e82e1" alt="Banner" width="100%" />
 </div>
 
-
-# 👋 Hi, I'm Cristian-Rich  
+# 👋 Hi, I'm Cristian Richard  
 
 I am a passionate software developer, always eager to learn and build innovative solutions.  
 Graduated with a **Bachelor's degree in Software Engineering from UFMS (Federal University of Mato Grosso do Sul, Brazil)**.  
@@ -12,7 +12,7 @@ Here you will find my main **projects**, **skills**, and **certifications**.
 ---
 
 ## 🚀 Featured Projects
-
+>Todo:
 ---
 
 ## 🛠️ Skills & Tools

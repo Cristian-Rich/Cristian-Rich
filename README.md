@@ -5,9 +5,11 @@
 
 # 👋 Hi, I'm Cristian Richard  
 
-I am a passionate software developer, always eager to learn and build innovative solutions.  
-Graduated with a **Bachelor's degree in Software Engineering from UFMS (Federal University of Mato Grosso do Sul, Brazil)**.  
-Here you will find my main **projects**, **skills**, and **certifications**.
+### Software Engineer | Full Stack Developer | Mobile & Backend | Bachelor in Software Engineering (UFMS)
+
+👩‍💻 Passionate about building **mobile apps** and **scalable backends**.  
+✍ Experienced with **Flutter, Dart, Java, Python, Firebase, and Agile methodologies**.  
+☕ Skilled in **UI/UX prototyping with Figma** and delivering production-ready solutions.  
 
 ---
 
@@ -18,29 +20,35 @@ Here you will find my main **projects**, **skills**, and **certifications**.
 ## 🛠️ Skills & Tools
 
 **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Databases**  
+**Databases & Cloud**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Tools & Practices**  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%20Methodologies-FF6F00?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![QA Testing](https://img.shields.io/badge/QA%20Testing-FF6F00?style=for-the-badge&logo=testing-library&logoColor=white)
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering%20Best%20Practices-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cristian-Rich&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Rich&layout=compact&theme=radical)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Cristian-Rich&theme=radical" alt="GitHub Streak Stats" />
+</div>
+
 
 ---
 
